@@ -9,7 +9,7 @@ corePath = '_core/'
 
 
 sys.path.append(corePath)
-from ._classes import neuralNetwork
+from ._core._classes import neuralNetwork
 
 
 # In[2]:

@@ -84,7 +84,8 @@ class neuralNetwork:
 
     # load neural network weights 
     def load(self):
-        self.wih = numpy.load('../_core/saved_wih.npy')
-        self.who = numpy.load('../_core/saved_who.npy')
+
+        self.wih = numpy.load('app/_core/saved_wih.npy')
+        self.who = numpy.load('app/_core/saved_who.npy')
         
         pass
