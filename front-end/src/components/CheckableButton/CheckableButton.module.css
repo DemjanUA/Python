@@ -1,0 +1,15 @@
+.checkable__button {
+  border: 1px solid transparent;
+  border-radius: 2px;
+  outline: none;
+  background: #fff;
+  cursor: pointer;
+}
+
+.checkable__button:hover {
+  color: #40a9ff;
+}
+
+.checked {
+  border-color: #40a9ff;
+}
