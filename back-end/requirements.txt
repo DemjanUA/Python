@@ -17,3 +17,5 @@ scipy==1.4.1
 six==1.15.0
 Werkzeug==1.0.1
 uchkin_diploma==1.0.3
+flask-socketio==4.3.0
+gevent-20.6.2
